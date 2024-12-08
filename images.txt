@@ -6,6 +6,6 @@ mysql:8.0.33
 dreamacro/clash
 dreamacro/clash-premium
 centralx/clash
-centralx/clash-dashboard
+zyao89/clash-with-dashboard
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
