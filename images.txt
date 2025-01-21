@@ -9,5 +9,8 @@ scottyhardy/docker-wine:latest
 justincormack/nsenter1
 python:3.11.0-bullseye
 postgres:17.0
+zabbix/zabbix-web-nginx-mysql:latest
+zabbix/zabbix-agent:latest
+zabbix/zabbix-server-mysql:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
