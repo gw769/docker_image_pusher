@@ -1,6 +1,4 @@
-nginx
-#支持私库
-ubuntu:24.04
+mashmb/nginx-certbot:1.28.0
 --platform=linux/arm64  jfleach/docker-arm-stress-ng
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
