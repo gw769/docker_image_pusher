@@ -1,6 +1,4 @@
 weishaw/sub2api:latest                                          
-postgres:18-alpine                                              
-redis:8-alpine
 --platform=linux/arm64  jfleach/docker-arm-stress-ng
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
