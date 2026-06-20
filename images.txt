@@ -1,4 +1,4 @@
-weishaw/sub2api:v0.1.136                                      
+weishaw/sub2api:0.1.136                                      
 --platform=linux/arm64  jfleach/docker-arm-stress-ng
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
